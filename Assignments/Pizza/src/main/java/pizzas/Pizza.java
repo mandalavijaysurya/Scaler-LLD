@@ -1,4 +1,4 @@
-package main.pizzas;
+package pizzas;
 
 public interface Pizza {
     int getCost();

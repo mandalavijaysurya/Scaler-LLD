@@ -1,6 +1,6 @@
-package main.pizzas.addons;
+package pizzas.addons;
 
-import main.pizzas.Pizza;
+import pizzas.Pizza;
 
 public class Olive implements Pizza{
 

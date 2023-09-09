@@ -1,6 +1,6 @@
-package main.pizzas.basepizzas;
+package pizzas.basepizzas;
 
-import main.pizzas.Pizza;
+import pizzas.Pizza;
 
 public class Pepperoni implements Pizza{
 

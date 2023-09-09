@@ -1,5 +1,3 @@
-package main;
-
 import main.pizzas.Pizza;
 import main.pizzas.addons.Cheese;
 import main.pizzas.addons.Paneer;
