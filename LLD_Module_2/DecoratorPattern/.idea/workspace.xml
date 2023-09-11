@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffed9353-b15b-41a4-a95f-e424249d14d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Assignments/Pizza/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignments/Pizza/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/PCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/addons/Cheese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/addons/Olive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/addons/Paneer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/addons/Tomato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/basepizzas/BBQChicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/basepizzas/FramHouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/basepizzas/Margherita.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/target/classes/com/designpattern/pizzas/basepizzas/Pepperoni.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +86,7 @@
       <workItem from="1693987285507" duration="8243000" />
       <workItem from="1694001740110" duration="1268000" />
       <workItem from="1694232959337" duration="161000" />
-      <workItem from="1694233131339" duration="149000" />
+      <workItem from="1694233131339" duration="2336000" />
     </task>
     <servers />
   </component>
