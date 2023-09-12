@@ -1,4 +1,4 @@
-package io.designpatterns;
+package io.designpatterns.Students;
 
 public class Student implements Prototype<Student> {
 

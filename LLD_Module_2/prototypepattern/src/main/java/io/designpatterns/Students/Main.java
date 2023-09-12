@@ -1,4 +1,4 @@
-package io.designpatterns;
+package io.designpatterns.Students;
 
 public class Main {
     public static void main(String[] args) {
