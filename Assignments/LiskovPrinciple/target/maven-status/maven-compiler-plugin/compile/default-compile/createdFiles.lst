@@ -1,0 +1,5 @@
+com/designpattern/Flyable.class
+com/designpattern/isFlyable/Crow.class
+com/designpattern/nonFlyable/Ostrich.class
+com/designpattern/Bird.class
+com/designpattern/Main.class
