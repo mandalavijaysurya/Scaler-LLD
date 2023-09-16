@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf7ec11-f889-4219-95d9-b8bf1b0af613" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/RoundHole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/RoundPeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/SquarePeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/SquarePegAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/SupportedPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/UIFactoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/buttons/AndriodButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/buttons/IOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/dropdowns/AndriodDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/dropdowns/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/dropdowns/IOSDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/menus/AndriodMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/menus/IOSMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/components/menus/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/ui/AndriodUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/ui/IOSUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/main/java/io/designpatterns/ui/UIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/Flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/isFlyable/Crow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/nonFlyable/Ostrich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LLD_Module_1/Module_1_Code/Sandeep-Scaler-LLD-IntAdv-1207" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLD_Module_1/Module_1_Code/Sandeep-Scaler-LLD-IntAdv-1207" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" afterDir="false" />
-    </list>
+    <list default="true" id="ddf7ec11-f889-4219-95d9-b8bf1b0af613" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694818462835</updated>
-      <workItem from="1694818463959" duration="2213000" />
+      <workItem from="1694818463959" duration="2699000" />
     </task>
     <servers />
   </component>

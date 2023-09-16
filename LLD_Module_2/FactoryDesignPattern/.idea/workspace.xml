@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5baab86e-40d5-47a0-937e-fec7be63c277" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/src/main/java/io/designpatterns/RoundHole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/src/main/java/io/designpatterns/RoundPeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/src/main/java/io/designpatterns/SquarePeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/src/main/java/io/designpatterns/SquarePegAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/SupportedPlatform.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/UIFactoryFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/components/buttons/AndriodButton.java" afterDir="false" />
@@ -23,13 +28,23 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/ui/AndriodUIFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/ui/IOSUIFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/designpatterns/ui/UIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/Flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/isFlyable/Crow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/LiskovPattern/src/main/java/com/designpattern/nonFlyable/Ostrich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignments/Pizza/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LLD_Module_1/Module_1_Code/Sandeep-Scaler-LLD-IntAdv-1207" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLD_Module_1/Module_1_Code/Sandeep-Scaler-LLD-IntAdv-1207" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLD_Module_1/OOPs_2/create--a-math-class---oops-in-java--constructors-and-static--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/UIFactoryFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/UIFactoryFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/UIFactoryFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/UIFactoryFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/buttons/AndriodButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/buttons/AndriodButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/buttons/IOSButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/buttons/IOSButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/dropdowns/AndriodDropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/dropdowns/AndriodDropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/dropdowns/IOSDropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/dropdowns/IOSDropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/menus/AndriodMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/menus/AndriodMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/components/menus/IOSMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/components/menus/IOSMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/ui/AndriodUIFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/ui/AndriodUIFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/designpatterns/ui/IOSUIFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/designpatterns/ui/IOSUIFactory.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +54,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2VRfhlw9OdWYKzwIYepyyaX0IUg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,20 +74,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "LLD-Module-2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;LLD-Module-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.designpatterns.components.buttons" />
+      <recent name="io.designpatterns.ui" />
+      <recent name="io.designpatterns.components.menus" />
+      <recent name="io.designpatterns.components.dropdowns" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694803936827</updated>
-      <workItem from="1694803937908" duration="3792000" />
+      <workItem from="1694803937908" duration="5441000" />
+      <workItem from="1694858662837" duration="109000" />
     </task>
     <servers />
   </component>

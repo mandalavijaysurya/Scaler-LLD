@@ -10,5 +10,8 @@
         <module name="FactoryDesignPattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FactoryDesignPattern" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
